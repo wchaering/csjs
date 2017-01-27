@@ -19,6 +19,11 @@
 * Fully supported native CSS media queries, pseudo-classes, keyframe animations, etc.
 * Server-rendered/universal JavaScript support
 
+## Installation
+```
+npm install --save csjs
+```
+
 ## Quick Example
 ([Live editable codepen.io demo](http://codepen.io/rtsao/pen/jWRJZj?editors=0010))
 ```javascript
